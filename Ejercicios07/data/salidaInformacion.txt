@@ -10,6 +10,10 @@ Promedio - 66,250000
 Número de notas arriba del promedio: 3
 
 
+Usuario: jlynch@utpl.edu.ec
+Nota Máxima: 95
+Nota Mínima: 10
+
 Nombres: Jonathan
 Apellidos: George
 Con notas: 
@@ -21,6 +25,10 @@ Con notas:
 Promedio - 61,250000
 Número de notas arriba del promedio: 2
 
+
+Usuario: jgeorge@utpl.edu.ec
+Nota Máxima: 80
+Nota Mínima: 40
 
 Nombres: Kristen
 Apellidos: Lang
@@ -34,6 +42,10 @@ Promedio - 41,250000
 Número de notas arriba del promedio: 1
 
 
+Usuario: klang@utpl.edu.ec
+Nota Máxima: 80
+Nota Mínima: 10
+
 Nombres: Robin
 Apellidos: Cochran
 Con notas: 
@@ -45,6 +57,10 @@ Con notas:
 Promedio - 46,250000
 Número de notas arriba del promedio: 2
 
+
+Usuario: rcochran@utpl.edu.ec
+Nota Máxima: 70
+Nota Mínima: 20
 
 Nombres: Michelle
 Apellidos: Young
@@ -58,6 +74,10 @@ Promedio - 63,750000
 Número de notas arriba del promedio: 3
 
 
+Usuario: myoung@utpl.edu.ec
+Nota Máxima: 75
+Nota Mínima: 50
+
 Nombres: Emily
 Apellidos: Fletcher
 Con notas: 
@@ -69,6 +89,10 @@ Con notas:
 Promedio - 58,750000
 Número de notas arriba del promedio: 2
 
+
+Usuario: efletcher@utpl.edu.ec
+Nota Máxima: 85
+Nota Mínima: 30
 
 Nombres: Noah
 Apellidos: Adkins
@@ -82,6 +106,10 @@ Promedio - 51,250000
 Número de notas arriba del promedio: 1
 
 
+Usuario: nadkins@utpl.edu.ec
+Nota Máxima: 80
+Nota Mínima: 40
+
 Nombres: Daniel
 Apellidos: Harris
 Con notas: 
@@ -93,5 +121,9 @@ Con notas:
 Promedio - 66,250000
 Número de notas arriba del promedio: 2
 
+
+Usuario: dharris@utpl.edu.ec
+Nota Máxima: 95
+Nota Mínima: 30
 
 
