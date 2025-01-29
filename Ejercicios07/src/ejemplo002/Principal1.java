@@ -138,5 +138,3 @@ public class Principal1 {
         return new int[]{max, min};
     }
 } 
-// Necesito que crees las funciones exta que necesites para que se present en el informe final username: y que sea la primera letra luego su apellido y 
-// luego @utpl.edu.ec, tambien que las notas de cada uno, saque la nota mas alta y mas baja
