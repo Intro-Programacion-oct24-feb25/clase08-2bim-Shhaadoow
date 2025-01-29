@@ -114,14 +114,13 @@ public class Principal1 {
         return cadena;
     }
 
-    // Nueva función para generar el username
+    
     public static String generarUsername(String nombre, String apellido) {
         String primeraLetraNombre = nombre.substring(0, 1).toLowerCase();
         String apellidoLower = apellido.toLowerCase();
         return primeraLetraNombre + apellidoLower + "@utpl.edu.ec";
     }
 
-    // Nueva función para obtener la nota más alta y más baja
     public static int[] obtenerNotasMaxMin(int[] notas) {
         int max = notas[0];
         int min = notas[0];
